@@ -49,7 +49,7 @@ I have experience with RPA tools such as **Automation Anywhere**, **Power Automa
 
 ## 🌐 Find me online:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/miguel-angel-vides-8a0241246/)
+- 💼 <a href="https://www.linkedin.com/in/miguel-angel-vides-8a0241246/" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
 - 💻 [GitHub](https://github.com/MiguelVides0)
 
 ---
